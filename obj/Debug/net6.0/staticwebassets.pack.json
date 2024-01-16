@@ -1,0 +1,877 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebAppDemoStudent.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebAppDemoStudent.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\css\\Images\\230940520028.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\230940520028.jpg"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\css\\Images\\57160118-medical-concept-doctor-appointment-word-written-on-blackboard-with-stethoscope-on-wood-background.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\57160118-medical-concept-doctor-appointment-word-written-on-blackboard-with-stethoscope-on-wood-background.jpg"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\css\\Images\\Cardioimg2.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\Cardioimg2.jpg"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\css\\Images\\Screenshot 2023-12-28 222213.png",
+      "PackagePath": "staticwebassets\\css\\Images\\Screenshot 2023-12-28 222213.png"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\css\\Images\\bgApp.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\bgApp.jpg"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\css\\Images\\doctordashbg.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\doctordashbg.jpg"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\css\\Images\\editbg2.png",
+      "PackagePath": "staticwebassets\\css\\Images\\editbg2.png"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\css\\Images\\editpatientbg.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\editpatientbg.jpg"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\css\\Images\\login.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\login.jpg"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\css\\Images\\loginback.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\loginback.jpg"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\css\\Images\\pic1.png",
+      "PackagePath": "staticwebassets\\css\\Images\\pic1.png"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\css\\Images\\slider2.png",
+      "PackagePath": "staticwebassets\\css\\Images\\slider2.png"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\css\\Images\\slider3.png",
+      "PackagePath": "staticwebassets\\css\\Images\\slider3.png"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\css\\Images\\slider4.png",
+      "PackagePath": "staticwebassets\\css\\Images\\slider4.png"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\css\\Images\\userDashBg.jpeg",
+      "PackagePath": "staticwebassets\\css\\Images\\userDashBg.jpeg"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\react-bootstrap\\react-bootstrap.js",
+      "PackagePath": "staticwebassets\\react-bootstrap\\react-bootstrap.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\react-bootstrap\\react-bootstrap.min.js",
+      "PackagePath": "staticwebassets\\react-bootstrap\\react-bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\wwwroot\\twitter-bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebAppDemoStudent.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebAppDemoStudent.props",
+      "PackagePath": "build\\WebAppDemoStudent.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAppDemoStudent.props",
+      "PackagePath": "buildMultiTargeting\\WebAppDemoStudent.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebAppDemoStudent.props",
+      "PackagePath": "buildTransitive\\WebAppDemoStudent.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

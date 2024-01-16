@@ -1,0 +1,102 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    /*background-image: url(Images/bgApp.jpg);
+    background-size: cover;*/
+}
+
+.text-a {
+    color: white;
+    text-decoration: none;
+}
+
+.loginbg {
+    background-image: url(Images/editbg2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    /*background-attachment: fixed;*/
+}
+
+.registerbg {
+    background-image: url('Images/Screenshot 2023-12-28 222213.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    
+}
+
+
+/*
+.logindiv {
+    background-image: url(Images/login.jpg);
+}*/
+
+/*.registerdiv {
+    background-image: url('Images/Screenshot 2023-12-28 222213.png');
+}*/
+
+.createbg {
+    background-image: url(Images/userDashBg.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.homelastImage {
+    margin-top: 50px;
+    background-image: url(Images/pic1.png);
+    background-repeat: no-repeat;
+    
+    height: 150px;
+    background-size: 1200px;
+    /*background-size: cover;*/
+    background-position: center;
+    opacity:70%;
+}
+
+.Indexbg {
+    background-image: url('Images/loginback.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.Editbg {
+    background-image: url('Images/editpatientbg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: white;
+}
+
+.Deletebg {
+    background-image: url('Images/Cardioimg2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: white;
+    
+}
+
+
