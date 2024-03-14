@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\WebAppDemoStudent.csproj": {}
+    "D:\\ASP.NET\\DotNet-Medicarehub\\WebAppDemoStudent.csproj": {}
   },
   "projects": {
-    "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\WebAppDemoStudent.csproj": {
+    "D:\\ASP.NET\\DotNet-Medicarehub\\WebAppDemoStudent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\WebAppDemoStudent.csproj",
+        "projectUniqueName": "D:\\ASP.NET\\DotNet-Medicarehub\\WebAppDemoStudent.csproj",
         "projectName": "WebAppDemoStudent",
-        "projectPath": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\WebAppDemoStudent.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\.NetFolder\\Akilesh_new_14\\WebAppDemoStudent\\obj\\",
+        "projectPath": "D:\\ASP.NET\\DotNet-Medicarehub\\WebAppDemoStudent.csproj",
+        "packagesPath": "C:\\Users\\Akhilesh Awachat\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.NET\\DotNet-Medicarehub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Akhilesh Awachat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,9 +84,17 @@
               "target": "Package",
               "version": "[2.3.1, )"
             },
+            "NETCore.MailKit": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Razorpay": {
+              "target": "Package",
+              "version": "[3.0.0, )"
             }
           },
           "imports": [

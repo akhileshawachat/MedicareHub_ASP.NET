@@ -1,0 +1,27 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model OrderEntity
+
+<div class="align-content-center">
+    <div class="text-center text-success">
+        <h3>Payment Received successfully!!!</h3>
+    </div>
+    <br />
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <td><b>Transaction Number</b></td>
+                <td>@Html.DisplayText("TransactionId")</td>
+            </tr>
+            <tr>
+                <td><b>Order Number</b></td>
+                <td>@Html.DisplayText("OrderId")</td>
+            </tr>
+        </thead>
+    </table>
+    
+</div>

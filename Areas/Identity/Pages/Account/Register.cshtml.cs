@@ -78,10 +78,12 @@ namespace WebAppDemoStudent.Areas.Identity.Pages.Account
         public class InputModel
         {
             [Required]
+            [RegularExpression("^[A-Za-z ]+$", ErrorMessage = "Name should contain only alphabets.")]
             [Display(Name = "First Name")]
             public string FirstName { get; set; }
 
             [Required]
+            [RegularExpression("^[A-Za-z ]+$", ErrorMessage = "Name should contain only alphabets.")]
             [Display(Name = "Last Name")]
             public string LastName { get; set; }
             /// <summary>
@@ -90,6 +92,7 @@ namespace WebAppDemoStudent.Areas.Identity.Pages.Account
             /// </summary>
             [Required]
             [EmailAddress]
+            [RegularExpression(@"^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$", ErrorMessage = "The {0} field is not a valid e-mail address.")]
             [Display(Name = "Email")]
             public string Email { get; set; }
 
@@ -99,6 +102,9 @@ namespace WebAppDemoStudent.Areas.Identity.Pages.Account
             /// </summary>
             [Required]
             [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
+            [RegularExpression(@"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[^\da-zA-Z]).{8,}$",
+            ErrorMessage = "The {0} field must be at least 8 characters long and contain at least one uppercase letter," +
+                " one lowercase letter, one digit, and one special character.")]
             [DataType(DataType.Password)]
             [Display(Name = "Password")]
             public string Password { get; set; }

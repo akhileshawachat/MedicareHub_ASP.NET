@@ -29,6 +29,7 @@ namespace WebAppDemoStudent.Controllers
                         Problem("Entity set 'MyDbContext.Bookings'  is null.");
         }
 
+        //Ger user by email
 
         [HttpGet]
         public async Task<IActionResult> GetUserByEmail(string email)
@@ -54,23 +55,6 @@ namespace WebAppDemoStudent.Controllers
             // Redirect to the "GetUserByEmail" view and pass the bookings data
             return View("GetUserByEmail", bookings);
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -168,11 +152,12 @@ namespace WebAppDemoStudent.Controllers
                         throw;
                     }
                 }
-                if (User.IsInRole("patient"))
+                if (User.IsInRole("patient") || User.IsInRole("doctor"))
                 {
                     // Redirect patients to the "GetUserByEmail" view
                     return RedirectToAction(nameof(GetUserByEmail), new { email = booking.Email });
                 }
+
                 return RedirectToAction(nameof(Index));
             }
             return View(booking);
@@ -212,12 +197,29 @@ namespace WebAppDemoStudent.Controllers
             }
             
             await _context.SaveChangesAsync();
-            if (User.IsInRole("patient"))
+            if (User.IsInRole("patient") || User.IsInRole("doctor"))
             {
                 // Redirect patients to the "GetUserByEmail" view
                 return RedirectToAction(nameof(GetUserByEmail), new { email = booking.Email });
             }
             return RedirectToAction(nameof(Index));
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetAppointmentsByDoctor(string doctorName)
+        {
+            
+            if (string.IsNullOrEmpty(doctorName))
+            {
+                ModelState.AddModelError("DoctorName", "Doctor name is required.");
+                return View("Index");
+            }
+
+            var bookings = await _context.Bookings
+                .Where(b => b.Doctor == doctorName)
+                .ToListAsync();
+
+            return View("GetUserByEmail", bookings);
         }
 
         private bool BookingExists(int id)

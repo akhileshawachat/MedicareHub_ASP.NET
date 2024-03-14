@@ -96,7 +96,17 @@ body {
     background-attachment: fixed;
     background-position: center;
     color: white;
-    
+   
+}
+
+.drug-card {
+    padding: 10px;
+    margin-bottom: 20px; /* Add margin between each card */
+}
+
+.drug-content {
+    border: 1px solid #ccc;
+    padding: 10px;
 }
 
 

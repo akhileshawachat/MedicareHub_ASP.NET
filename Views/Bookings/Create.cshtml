@@ -3,6 +3,10 @@
 @inject UserManager<IdentityUser> UserManager
 @{
     ViewData["Title"] = "Create";
+    
+    var doctors = await UserManager.GetUsersInRoleAsync("doctor");
+    
+    ViewBag.Doctors = doctors;
 }
 
 <body class="createbg">
@@ -38,11 +42,13 @@
                 <input asp-for="Symptoms" class="form-control" />
                 <span asp-validation-for="Symptoms" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="Doctor" class="control-label"></label>
-                <input asp-for="Doctor" readonly value="Dr. Lalit" class="form-control" />
-                <span asp-validation-for="Doctor" class="text-danger"></span>
-            </div>
+                <div class="form-group">
+                    <label asp-for="Doctor" class="control-label">Doctor</label>
+                    <select asp-for="Doctor" class="form-control" asp-items="@(new SelectList(doctors,"UserName", "FirstName"))">
+                        <option value="">Select Doctor</option>
+                    </select>
+                    <span asp-validation-for="Doctor" class="text-danger"></span>
+                </div>
             <br />
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />

@@ -4,13 +4,28 @@
     ViewData["Title"] = "GetUserByEmail";
 }
 <body class="createbg">
-<h2>Booked Appointments</h2>
-<br />
 
+    @if (User.IsInRole("patient"))
+    {
+        <h2>Booked Appointments</h2>
+        
+    }
+    
 
-<p>
-    <a class="btn btn-primary" class="btn btn-s" asp-action="Create">Create Appointment</a>
-</p>
+    @if (User.IsInRole("doctor"))
+    {
+        <h2>Show Appointments</h2>
+    }
+    <br />
+
+@if (User.IsInRole("patient"))
+ {
+        <p>
+            <a class="btn btn-primary" class="btn btn-s" asp-action="Create">Create Appointment</a>
+        </p>
+ }
+ 
+
 <table class="table">
     <thead>
         <tr>
@@ -54,7 +69,15 @@
                 @Html.DisplayFor(modelItem => item.Symptoms)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Doctor)
+
+                @{
+                    string[] nameParts = item.Doctor.Split('@');
+                    if (nameParts.Length > 0)
+                    {
+                        string name = nameParts[0];
+                        @Html.DisplayFor(modelItem => name)
+                    }
+                }
             </td>
             <td>
                     <a class="btn btn-success" asp-action="Edit" asp-route-id="@item.Id">Edit </a> | 

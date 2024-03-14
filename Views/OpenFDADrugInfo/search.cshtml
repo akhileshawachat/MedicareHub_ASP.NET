@@ -1,0 +1,54 @@
+﻿@model IEnumerable<WebAppDemoStudent.Models.DrugInfo>
+
+@{
+    ViewBag.Title = "Search Results";
+}
+<h2 class="FDA">Search Results</h2>
+
+@using (Html.BeginForm("Search", "OpenFDADrugInfo", FormMethod.Post))
+{
+    <label>
+        Enter Drug or Symptom:
+        @Html.TextBox("searchTerm", null, new { type = "text" })
+        <button type="submit">Search</button>
+    </label>
+}
+
+<br />
+
+@if (!string.IsNullOrEmpty(ViewBag.Error))
+{
+    <p style="color: red">@ViewBag.Error</p>
+}
+
+@if (Model != null && Model.Any())
+{
+    <div class="row">
+        @foreach (var info in Model.Take(4)) // Limiting to 4 items
+        {
+            <div class="col-md-3">
+                <div class="drug-card">
+                    <div class="drug-content">
+                        <h3>Medicine Name:</h3>
+                        <p>@info.MedicineName</p>
+                        <h3>General Name:</h3>
+                        <p>@info.GeneralName</p>
+                        <h3>Route:</h3>
+                        <p>@info.Route</p>
+                        <h3>Pharm Class:</h3>
+                        <p>@info.PharmClass</p>
+                        <h3>Indication:</h3>
+                        <p>@info.DrugIndication</p>
+                        <h3>Reactions:</h3>
+                        <ul>
+                            @foreach (var reaction in info.Reactions)
+                            {
+                                <li>@reaction.ReactionMedDrapt</li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}

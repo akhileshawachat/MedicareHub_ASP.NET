@@ -54,7 +54,11 @@
         {
             <a class="btn btn-primary" asp-route-email="@UserManager.GetUserName(User)" asp-action="GetUserByEmail">Back to List</a>
         }
-        @if (User.IsInRole("doctor") || User.IsInRole("admin"))
+        @if (User.IsInRole("doctor"))
+        {
+            <a class="btn btn-primary" asp-action="GetAppointmentsByDoctor" asp-route-doctorName=@UserManager.GetUserName(User)>Back to List</a>
+        }
+        @if ( User.IsInRole("admin"))
         {
             <a class="btn btn-primary" asp-action="Index">Back to List</a>
         }

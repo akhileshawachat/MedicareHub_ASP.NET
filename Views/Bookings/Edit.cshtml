@@ -68,6 +68,7 @@
                 <span asp-validation-for="Doctor" class="text-danger"></span>
             </div>
             <br />
+            
             <div class="form-group">
                 <input type="submit" value="Update" class="btn btn-success"/>
             </div>
@@ -80,7 +81,11 @@
     {
         <a class="btn btn-primary" asp-action="GetUserByEmail" asp-route-email="@UserManager.GetUserName(User)">Back to List</a>
     }
-    @if (User.IsInRole("doctor") || User.IsInRole("admin"))
+    @if (User.IsInRole("doctor"))
+    {
+            <a class="btn btn-primary" asp-action="GetAppointmentsByDoctor" asp-route-doctorName=@UserManager.GetUserName(User)>Back to List</a>
+    }
+    @if (User.IsInRole("admin"))
     {
         <a class="btn btn-primary" asp-action="Index">Back to List</a>
     }

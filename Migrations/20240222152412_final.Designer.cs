@@ -11,8 +11,8 @@ using WebAppDemoStudent.Data;
 namespace WebAppDemoStudent.Migrations
 {
     [DbContext(typeof(MyDbContext))]
-    [Migration("20240114133035_first")]
-    partial class first
+    [Migration("20240222152412_final")]
+    partial class final
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -271,29 +271,6 @@ namespace WebAppDemoStudent.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Bookings");
-                });
-
-            modelBuilder.Entity("WebAppDemoStudent.Models.Student", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    b.Property<string>("Description")
-                        .HasColumnType("longtext");
-
-                    b.Property<string>("Email")
-                        .HasColumnType("longtext");
-
-                    b.Property<string>("Name")
-                        .HasColumnType("longtext");
-
-                    b.Property<int>("StudentId")
-                        .HasColumnType("int");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Students");
                 });
 
             modelBuilder.Entity("WebAppDemoStudent.Models.ApplicationUser", b =>
